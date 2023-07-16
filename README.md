@@ -18,8 +18,8 @@ Here are some ideas to get you started:
  
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/xoxosos)
 
-- 🍻 全栈工程师(skills😄-:1.Frontend:Vue,React;2.Backed:Java,SpringBoot)
-- ⚡ TypeScript / JavaScript / Java / Mysql
+- 🍻 全栈工程师(菜鸟😄)
+- ⚡ TypeScript / JavaScript / Java / Go / Mysql
 - ✍️ Writer at [cnblogs](https://www.cnblogs.com/pglin/)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
