@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🍻 全栈工程师(菜鸟😄)
 - ⚡ TypeScript / JavaScript / Java / Go / Mysql
 - ✍️ Writer at [cnblogs](https://www.cnblogs.com/pglin/)
-- 🏃 Coding / Gaming / Playing 
-- 🥋 Boxing / Tai Chi
-- ♟ Chinese Chess / Chess 
+- 👨‍💻 Coding 
+- 🎮 Gaming 
+- 🍻 Playing 
 
